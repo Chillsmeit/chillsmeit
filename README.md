@@ -1,6 +1,4 @@
 ### Hello there :wave: <br>
-I'm a Mecatronics student, currently studying eletronics, robotics, automation and programming.<br>
-I'm also a Linux, Open-Source, Networking and Hardware Enthusiast
 #### Currently Using:<br>
 
 ![OS](https://img.shields.io/badge/OS-Pop!_OS%2022.04-informational?color=48B9C7&style=flat&logo=Pop!_OS&logoColor=48B9C7) ![OS](https://img.shields.io/badge/OS-Ubuntu%2022.04-informational?color=E95420&style=flat&logo=Ubuntu&logoColor=E95420) 
