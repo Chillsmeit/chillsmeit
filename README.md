@@ -1,4 +1,4 @@
-![OS](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora)
+![OS](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu)
 ![IDE](https://img.shields.io/badge/IDE-Fleet-informational?style=flat&logo=JetBrains)
 ![Lang](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp)
 <br>
