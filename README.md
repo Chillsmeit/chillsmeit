@@ -1,5 +1,5 @@
 ### Hello there :wave: <br>
-I'm a Mecatronics student, currently studying eletronics, robotics, automation and programming.
+I'm a Mecatronics student, currently studying eletronics, robotics, automation and programming.<br>
 I'm also a Linux, Open-Source, Networking and Hardware Enthusiast
 #### Currently Using:<br>
 
