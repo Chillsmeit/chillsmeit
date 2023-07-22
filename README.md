@@ -1,7 +1,7 @@
 ### Hello there :wave: <br>
 #### Currently Using:<br>
 
-![OS](https://img.shields.io/badge/OS-Pop!_OS%2022.04-informational?color=48B9C7&style=flat&logo=Pop!_OS&logoColor=48B9C7) ![OS](https://img.shields.io/badge/OS-Ubuntu%2022.04-informational?color=E95420&style=flat&logo=Ubuntu&logoColor=E95420) 
+![OS](https://img.shields.io/badge/Debian-Pop!_OS-informational?color=48B9C7&style=flat&logo=Pop!_OS&logoColor=48B9C7) ![OS](https://img.shields.io/badge/Arch-EndeavorOS-informational?color=E95420&style=flat&logo=archlinux&logoColor=E95420) 
 
 ![IDE](https://img.shields.io/badge/IDE-VS%20Code-informational?color=007ACC&style=flat&logo=visual-studio-code&logoColor=007ACC) ![Editor](https://img.shields.io/badge/IDE-Neovim-informational?color=7A143&style=flat&logo=Neovim&logoColor=7A143) ![Editor](https://img.shields.io/badge/IDE-Arduino%20V2-informational?color=00979D&style=flat&logo=Arduino&logoColor=00979D)
 
