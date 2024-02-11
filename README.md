@@ -11,6 +11,11 @@
 </p>
 
 <!-- Tech Stack -->  
+<details open>
+  <summary><b>🛠️ Tech Stack</b></summary>
+    <p>
+       
+<!-- Tech Stack -->
 | **Category** | **Technologies** |
 | - | - |
 **Distro** | [![OpenSUSE](https://img.shields.io/badge/OpenSUSE%20Tumbleweed-4FC922?style=flat&logo=OpenSUSE&logoColor=white)](https://get.opensuse.org/tumbleweed/) [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/) [![RaspberryPi OS](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)](https://get.opensuse.org/tumbleweed/)
@@ -18,4 +23,38 @@
 **Learning** | [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.java.com/)
 **Comfortable** | [![Linux](https://img.shields.io/badge/Linux-BA3E3E?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/MacOS-343434?style=flat&logo=apple&logoColor=white)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://azure.microsoft.com/)<br> [![Windows](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/badge/Markdown-1b1b1b?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
+----
+</p>
+</details>
+
+<!-- Metrics -->
+<details>
+  <summary><b>📊 Metrics</b></summary>
+    <p>
+       
 ![Stats](https://github-readme-stats.vercel.app/api?username=chillsmeit&show_icons=true&theme=onedark)
+</p>
+</details>
+
+
+<!-- About Section -->
+<details>
+  <summary><b>👤 About Me</b></summary>
+    <p>
+      
+<blockquote>
+
+I am former IT Tech/Junior SysAdmin based in Lisbon Portugal.<br>
+
+I have a certification as a Mechatronics specialist technician.<br>
+
+I care a lot about privacy, security, Linux and open source.
+
+I'm currently building my own homelab in order to upgrade from my 2 RaspberryPis and Intel NUC<br>
+to an enterprise grade server (Silverstone or Supermicro), NAS (TrueNAS) and Firewall (Protectli Vault using PfSense).
+
+</blockquote>
+    
+----
+  </p>
+</details>
