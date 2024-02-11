@@ -54,7 +54,7 @@ I have a certification as a Mechatronics specialist technician.<br>
 
 I care a lot about privacy 🕵️, security 🔒, Linux 🐧 and open source 💿.
 
-I'm currently building my own homelab in order to upgrade from my 2 RaspberryPis and Intel NUCs<br>
+I'm currently building my own homelab in order to upgrade from my 2 RaspberryPis and Intel NUC<br>
 to an enterprise grade server (Silverstone or Supermicro), NAS (TrueNAS) and Firewall (Protectli Vault using PfSense).
 
 My hobbies are mainly about custom keyboards ⌨️, tech 💻, gaming 🎮 and D&D ⚔️
