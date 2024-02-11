@@ -44,7 +44,7 @@
       
 <blockquote>
 
-I am former IT Tech/Junior SysAdmin based in Lisbon Portugal.<br>
+I'm a former IT Tech/Junior SysAdmin based in Lisbon Portugal.<br>
 
 I have a certification as a Mechatronics specialist technician.<br>
 
