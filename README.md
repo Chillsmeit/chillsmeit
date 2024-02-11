@@ -3,11 +3,12 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/chillsmeit" title="Twitter - @chillsmeit"><img src="https://img.shields.io/badge/-@chillsmeit-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <!-- <a href="https://www.linkedin.com/in/bribeiromelo" title="LinkedIn - Bernardo Melo"><img src="https://img.shields.io/badge/-Bernardo%20Melo-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a> -->
-  <a href="https://www.reddit.com/user/chillsmeit" title="Reddit - u/chillsmeit"><img src="https://img.shields.io/badge/-chillsmeit-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
-  <a href="https://chillsmeit.com title="Personal Website - chillsmeit.com"><img src="https://img.shields.io/badge/-chillsmeit.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  </kbd>
+      <a href="mailto:chillsmeit@proton.me" title="Email Address"><img src="https://img.shields.io/badge/chillsmeit-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a>
+      <a href="https://twitter.com/chillsmeit" title="Twitter - @chillsmeit"><img src="https://img.shields.io/badge/-@chillsmeit-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+      <!-- <a href="https://www.linkedin.com/in/bribeiromelo" title="LinkedIn - Bernardo Melo"><img src="https://img.shields.io/badge/-Bernardo%20Melo-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a> -->
+      <a href="https://www.reddit.com/user/chillsmeit" title="Reddit - u/chillsmeit"><img src="https://img.shields.io/badge/-chillsmeit-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+      <a href="https://chillsmeit.com title="Personal Website - chillsmeit.com"><img src="https://img.shields.io/badge/-chillsmeit.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+   </kbd>
 </p>
 
 <!-- Tech Stack -->  
