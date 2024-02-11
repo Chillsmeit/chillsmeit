@@ -8,6 +8,4 @@
 **Learning** | [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.java.com/)
 **Comfortable** | [![Linux](https://img.shields.io/badge/Linux-BA3E3E?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/MacOS-343434?style=flat&logo=apple&logoColor=white)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://azure.microsoft.com/)<br> [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 
-----
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=chillsmeit&show_icons=true&theme=onedark)
