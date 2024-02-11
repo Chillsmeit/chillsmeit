@@ -28,11 +28,13 @@
 </details>
 
 <!-- Metrics -->
-<details>
+<details open>
   <summary><b>📊 Metrics</b></summary>
     <p>
-       
-![Stats](https://github-readme-stats.vercel.app/api?username=chillsmeit&show_icons=true&theme=onedark)
+<a href="https://github.com/Chillsmeit">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chillsmeit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chillsmeit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</a>
 </p>
 </details>
 
