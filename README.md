@@ -53,7 +53,7 @@ I'm a former IT Tech/Junior SysAdmin based in Lisbon Portugal.<br>
 I have a certification as a Mechatronics specialist technician.<br>
 
 Passionate about privacy 🕵️, security 🔒, Linux 🐧, networking 🌐, docker 🐳 and open source 💿.<br>
-Interested in DevOps.<br>
+Interested in DevOps and into self-hosting.<br>
 
 I'm currently building my own homelab in order to upgrade from my 2 RaspberryPis and Intel NUC<br>
 to an enterprise grade server (Silverstone or Supermicro), NAS (TrueNAS) and Firewall (Protectli Vault using PfSense).
