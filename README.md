@@ -1,11 +1,5 @@
 <!-- Title -->
 <h1 align="center" title="Hello there!">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Bernardo</h1>
-<!-- Socials -->
-<p align="center">
-   <kbd>
-      <a href="mailto:chillsmeit@proton.me" title="Email Address"><img src="https://img.shields.io/badge/Mail-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a>
-   </kbd>
-</p>
 
 <!-- Tech Stack -->  
 <details open>
