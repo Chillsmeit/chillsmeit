@@ -4,7 +4,7 @@
 <!-- Tech Stack -->  
 <details open>
   <summary><b>🛠️ Tech Stack</b></summary>
-   <p align="center">
+    <p>
 
 <!-- Tech Stack -->
 | **Category** | **Technologies** |
@@ -14,8 +14,6 @@
 **Learning** | [![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css) [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)<br>[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white)](https://lua.org/)
 **Comfortable** | [![Linux](https://img.shields.io/badge/Linux-BA3E3E?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/MacOS-343434?style=flat&logo=apple&logoColor=white)](https://support.apple.com/downloads/macos) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download)<br> [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=Zsh&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/badge/Markdown-1b1b1b?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
-----
-
 </p>
 </details>
 
@@ -23,6 +21,7 @@
 <details open>
   <summary><b>📊 Metrics</b></summary>
     <p>
+      <br>
 <a href="https://github.com/Chillsmeit">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chillsmeit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chillsmeit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
