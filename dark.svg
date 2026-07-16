@@ -91,7 +91,7 @@
     .social:hover .sglyph { fill: #22D3EE; }
   </style>
 
-  <rect x="16" y="16" width="1148" height="578" rx="28" fill="#030712" filter="url(#cardShadow)"/>
+  <rect x="16" y="16" width="1148" height="578" rx="28" fill="#030712"/>
 
   <g clip-path="url(#cardClip)">
     <rect x="16" y="16" width="1148" height="578" fill="url(#bgGrad)"/>
